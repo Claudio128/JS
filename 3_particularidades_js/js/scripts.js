@@ -1,6 +1,6 @@
 console.log("Primeiro");
 console.log("Último");
-console.log("Mais um consolo.log");
+console.log("Mais um console.log");
 
 // Tipagem fraca
 var a = 1;
